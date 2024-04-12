@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   background-color: hsl(185, 75%, 39%);
@@ -20,8 +21,8 @@ body {
   align-items: center;
   flex-direction: column;
   border-radius: 20px;
-  width: 350px;
-  height: 400px;
+  width: 326px;
+  height: 374px;
   margin: auto 0;
   box-shadow: 5px 5px 200px 0px #158994;
 }
